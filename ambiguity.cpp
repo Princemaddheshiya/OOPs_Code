@@ -6,7 +6,7 @@ private:
     /* data */
 public:
     void greeting(void){
-        cout<<"hii prince madheshiya "<<endl;
+        cout<<"hello  prince madheshiya "<<endl;
     }
 };
 
